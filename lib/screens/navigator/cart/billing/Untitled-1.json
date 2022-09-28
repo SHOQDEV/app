@@ -1,0 +1,53 @@
+{
+    "cliente": {
+        "nit": 403519029,
+        "usuario": "engine2",
+        "password": "123456",
+        "codigo_documentos_sector_id": 1,
+        "sucursal": 0,
+        "pos": 0,
+        "actividadEconomica": "471900",
+        "imeimac": "56:3C:43:56:C7:B8",
+        "factura": {
+            "cabecera": {
+                "nombreRazonSocial": "CLIENTE CAFC",
+                "correoElectronico": "eerpbo@gmail.com",
+                "codigoTipoDocumentoIdentidad": 1,
+                "numeroDocumento": "1548971",
+                "complemento": "",
+                "codigoCliente": "1548971CO",
+                "codigoMetodoPago": 1,
+                "numeroTarjeta": 0,
+                "montoTotal": 50.00,
+                "montoTotalSujetoIva": 50.00,
+                "codigoMoneda": 1,
+                "tipoCambio": 1.00,
+                "montoTotalMoneda": 50.00,
+                "montoGiftCard": 0.00,
+                "descuentoAdicional": 0.00,
+                "codigoExcepcion": 1,
+                "cafc": "1015DD45D806C",
+                "usuario": "a.baspineiro",
+                "codigoDocumentoSector": 1,
+                "tipoFacturaDocumento": 1,
+                "fechaCafc": "2021-11-04 00:29:20.100",
+                "numeroFacturaCafc": 52
+            },
+            "detalle": [
+                {
+                    "actividadEconomica": "620100",
+                    "codigoProductoSin": 99100,
+                    "codigoProducto": "JUG-NAR-001",
+                    "descripcion": "VASO DE JUGO DE PERA",
+                    "cantidad": 5.00,
+                    "unidadMedida": 1,
+                    "precioUnitario": 10.00,
+                    "montoDescuento": 0.00,
+                    "subTotal": 50.00,
+                    "numeroSerie": "",
+                    "numeroImei": "nit"
+                }
+            ]
+        }
+    }
+}
